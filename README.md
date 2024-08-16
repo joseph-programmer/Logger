@@ -134,5 +134,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 For questions or suggestions, please open an issue on the GitHub repository.
 
 ---
-
-This README should serve as a good starting point for the `Logger` project, providing an overview, installation instructions, usage examples, and contribution guidelines.
